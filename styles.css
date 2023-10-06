@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.body{
+    width: 100wh;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.main{
+    width: 80;
+    height:90%
+}
+.nav {
+    float:left;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: flex;
+    
+  }
+  .words{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:30px;
+    width: 15vw;
+    border-radius: 5px;
+  }
+  .sneakers{
+    padding-top: 2.4rem;
+  }
+  .shoes{
+
+  }
